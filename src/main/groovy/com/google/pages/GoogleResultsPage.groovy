@@ -1,4 +1,4 @@
-package at.google.pages
+package com.google.pages
 
 import geb.Page
 
